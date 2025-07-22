@@ -23,8 +23,8 @@ Esta API oferece três funcionalidades principais:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/document-processing-api.git
-cd document-processing-api
+git clone https://github.com/aspvinicius02/cgu.git
+cd cgu
 ```
 
 2. Instale as dependências:
